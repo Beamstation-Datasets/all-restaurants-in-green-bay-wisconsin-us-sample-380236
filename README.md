@@ -1,6 +1,6 @@
 # All Restaurants in Green Bay, Wisconsin, US
 
-> Free BeamStation sample export with 26 rows and masked direct-contact fields.
+> Free BeamStation sample export with 45 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `380236` |
 | Location | Green Bay |
 | Category | Restaurants |
-| Full dataset size | 262 records |
-| Free sample size | 26 records (9.92%) |
-| Last export | 2026-04-21T14:19:34.158297+00:00 |
+| Full dataset size | 454 records |
+| Free sample size | 45 records (9.91%) |
+| Last export | 2026-04-28T15:17:57.217837+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-green-bay-wisconsin-us-sample-380236/releases/download/sample-latest/beamstation_380236_restaurants-us-wi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
