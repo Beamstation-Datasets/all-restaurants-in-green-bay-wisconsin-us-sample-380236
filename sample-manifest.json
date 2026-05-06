@@ -1,12 +1,12 @@
 {
-  "export_job_id": "38681f74-9e87-434c-a4fa-07eaa099089f",
+  "export_job_id": "6ae62602-4a37-4740-992b-c235267ac36f",
   "id_short": 380236,
-  "published_at": "2026-04-28T19:38:17Z",
+  "published_at": "2026-05-06T19:09:29Z",
   "repo_name": "all-restaurants-in-green-bay-wisconsin-us-sample-380236",
   "sample_asset_name": "beamstation_380236_restaurants-us-wi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/380236/beamstation_380236_restaurants-us-wi_SAMPLE_DIST.csv",
-  "sample_records": 45,
-  "sample_sha256": "96fe6e0645f225ac05ad9de59b26cfb189dc03ac6b43ba6cdf4d390bbe55889d",
-  "sample_size_bytes": 148586,
-  "total_records": 454
+  "sample_records": 48,
+  "sample_sha256": "7dca8f9ad19b7917dfb02e343b55446cc6ba4e04326effb6d0041ee8746a7db8",
+  "sample_size_bytes": 201799,
+  "total_records": 480
 }
